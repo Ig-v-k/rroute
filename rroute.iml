@@ -12,7 +12,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/home/iw/Android/Sdk/platforms/android-34/android.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/classes.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
