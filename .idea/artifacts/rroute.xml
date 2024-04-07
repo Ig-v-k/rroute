@@ -2,6 +2,7 @@
   <artifact type="jar" name="rroute">
     <output-path>$PROJECT_DIR$/out/artifacts/rroute</output-path>
     <root id="archive" name="rroute.jar">
+      <element id="module-output" name="rroute" />
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
       </element>
